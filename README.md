@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
+| [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
