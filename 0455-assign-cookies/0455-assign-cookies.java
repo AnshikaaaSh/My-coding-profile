@@ -1,6 +1,6 @@
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-        int c=0;
+        // int c=0;
         Arrays.sort(g);
         Arrays.sort(s);
         // for(int i=0,j=0;i<n;){
@@ -19,11 +19,11 @@ class Solution {
         while(i<g.length && j<s.length){
             if(g[i]<=s[j]){
                 i++;j++;
-                c++;
+                
                 continue;
             }
             else j++;
         }
-        return c;
+        return i;
     }
 }
