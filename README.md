@@ -79,9 +79,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
