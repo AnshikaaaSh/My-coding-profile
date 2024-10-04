@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
