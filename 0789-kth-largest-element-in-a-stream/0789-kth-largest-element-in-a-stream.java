@@ -3,8 +3,8 @@ class KthLargest {
     PriorityQueue<Integer> q=new PriorityQueue<>();
     public KthLargest(int k, int[] nums) {
         this.k=k;
-        for(int i=0;i<nums.length;i++){
-            q.add(nums[i]);
+        for(int i:nums){
+            q.add(i);
         }
         while(q.size()>k) q.poll();
     }
