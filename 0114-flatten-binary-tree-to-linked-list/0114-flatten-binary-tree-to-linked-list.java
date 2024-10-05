@@ -14,21 +14,17 @@
  * }
  */
 class Solution {
-    Queue<TreeNode> ll=new LinkedList<>();
-
-    public void add(TreeNode root){
-        if(root==null) return;
-        ll.add(root);
-        add(root.left);
-        add(root.right);
-    }
-
     public void flatten(TreeNode root) {
-        add(root);
-        while(!ll.isEmpty()){
-            TreeNode temp=ll.poll();
-            temp.right=ll.peek();
-            temp.left=null;
+        TreeNode curr=root;
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode node=curr.left;
+                while(node.right!=null) node=node.right;
+                node.right=curr.right;
+                curr.right=curr.left;
+                curr.left=null;
+            }
+            curr=curr.right;
         }
     }
 }
