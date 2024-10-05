@@ -11,11 +11,7 @@ class KthLargest {
     public int add(int val) {
         al.add(val);
         Collections.sort(al, Collections.reverseOrder());
-        //int m=0;
-        
-        int m=al.get(kk-1);
-        
-        return m;
+        return al.get(kk-1);
     }
 }
 
