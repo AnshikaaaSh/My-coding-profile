@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -60,10 +61,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -177,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -197,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
