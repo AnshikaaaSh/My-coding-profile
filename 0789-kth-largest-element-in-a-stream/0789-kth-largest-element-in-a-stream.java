@@ -6,6 +6,7 @@ class KthLargest {
         for(int i=0;i<nums.length;i++){
             al.add(nums[i]);
         }
+        Collections.sort(al, Collections.reverseOrder());
     }
     
     public int add(int val) {
