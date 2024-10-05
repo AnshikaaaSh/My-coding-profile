@@ -1,17 +1,17 @@
 class KthLargest {
-    public int kk=0;
+    public int k;
     ArrayList<Integer> al=new ArrayList<>();
     public KthLargest(int k, int[] nums) {
+        this.k=k;
         for(int i=0;i<nums.length;i++){
             al.add(nums[i]);
         }
-        kk=k;
     }
     
     public int add(int val) {
         al.add(val);
         Collections.sort(al, Collections.reverseOrder());
-        return al.get(kk-1);
+        return al.get(k-1);
     }
 }
 
