@@ -5,8 +5,8 @@ class KthLargest {
         this.k=k;
         for(int i:nums){
             q.add(i);
+            if(q.size()>k) q.poll();
         }
-        while(q.size()>k) q.poll();
     }
     
     public int add(int val) {
