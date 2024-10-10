@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
