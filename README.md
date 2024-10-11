@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0871-keys-and-rooms) |
+| [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -246,12 +249,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
