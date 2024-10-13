@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
@@ -267,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
