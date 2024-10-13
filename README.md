@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0239-sliding-window-maximum) |
@@ -262,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0871-keys-and-rooms) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
