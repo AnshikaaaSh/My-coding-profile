@@ -1,31 +1,31 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
-        int n = graph.length;
-        int[] colors = new int[n];  // Initialize all nodes as uncolored (0)
-        
-        // Iterate over all nodes in case the graph is disconnected
-        for (int start = 0; start < n; start++) {
-            if (colors[start] == 0) {  // If the node is uncolored
-                Queue<Integer> queue = new LinkedList<>();
-                queue.offer(start);
-                colors[start] = 1;  // Color the node with 1
-                
-                while (!queue.isEmpty()) {
-                    int node = queue.poll();
-                    
-                    for (int neighbor : graph[node]) {
-                        if (colors[neighbor] == 0) {  // If the neighbor is uncolored
-                            colors[neighbor] = -colors[node];  // Assign opposite color
-                            queue.offer(neighbor);
-                        } else if (colors[neighbor] == colors[node]) {
-                            // If neighbor has the same color, graph is not bipartite
-                            return false;
-                        }
-                    }
-                }
+        int v=graph.length;
+        int[] color=new int[v];
+        for(int i=0;i<v;i++) color[i]=-1;
+        for(int i=0;i<v;i++){
+            if(color[i]==-1){
+                if(check(i,v,graph,color)==false) return false;
             }
         }
+        return true;
+    }
+
+    public boolean check(int start, int v, int[][] graph, int[] color){
+        Queue<Integer> q=new LinkedList<>();
+        q.add(start);
+        color[start]=0;
         
-        return true;  // If we successfully color the graph, it is bipartite
+        while(!q.isEmpty()){
+            int node=q.poll();
+            for(int i:graph[node]){
+                if(color[i]==-1){
+                    color[i]=1-color[node];
+                    q.add(i);
+                }
+                else if(color[i]==color[node]) return false;
+            }
+        }
+        return true;
     }
 }
