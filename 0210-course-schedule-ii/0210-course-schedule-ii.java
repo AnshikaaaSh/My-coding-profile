@@ -23,11 +23,12 @@ class Solution {
                 }
             }
         }
-        if(arr.size()!=numCourses) return new int[0];
+        int s=arr.size();
+        if(s!=numCourses) return new int[0];
 
-        int[] res=new int[arr.size()];
+        int[] res=new int[s];
 
-        for(int i=0;i<arr.size();i++){
+        for(int i=0;i<s;i++){
             res[i]=arr.get(i);
         }
         return res;
