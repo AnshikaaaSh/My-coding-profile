@@ -2,6 +2,7 @@ class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adj=new ArrayList<>();
         int[] indeg=new int[numCourses];
+        int[] res=new int[numCourses];
 
         for(int i=0;i<numCourses;i++) adj.add(new ArrayList<>());
 
@@ -16,7 +17,7 @@ class Solution {
         int in=0;
         while(!q.isEmpty()){
             int course=q.poll();
-            in++;
+            res[in++]=course;
             for(int nc:adj.get(course)){
                 indeg[nc]--;
                 if(indeg[nc]==0) q.add(nc);
