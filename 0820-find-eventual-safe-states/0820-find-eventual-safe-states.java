@@ -1,39 +1,21 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         int n=graph.length;
-
-        List<List<Integer>> al=new ArrayList<>();
+        List<Integer> res=new ArrayList<>();
+        int[] state=new int[n];
         for(int i=0;i<n;i++){
-            al.add(new ArrayList<>());
+            if(safe(graph,i,state)) res.add(i);
         }
+        return res;
+    }
 
-        int[] outd=new int[n];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<graph[i].length;j++){
-                al.get(graph[i][j]).add(i);
-                outd[i]++;
-            }
+    private boolean safe(int[][] graph, int i, int[] state){
+        if(state[i]!=0) return state[i]==2;
+        state[i]=1;
+        for(int j:graph[i]){
+            if(state[j]==1 || !safe(graph,j,state)) return false;
         }
-
-        int[] safe=new int[n];
-        Queue<Integer> q=new LinkedList<>();
-        for(int i=0;i<n;i++){
-            if(outd[i]==0) q.add(i);
-        }
-
-        while(!q.isEmpty()){
-            int curr=q.poll();
-            safe[curr]=1;
-            for(int a:al.get(curr)){
-                outd[a]--;
-                if(outd[a]==0) q.add(a);
-            }
-        }
-
-        List<Integer> ans=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(safe[i]==1) ans.add(i);
-        }
-        return ans;
+        state[i]=2;
+        return true;
     }
 }
