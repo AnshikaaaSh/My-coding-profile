@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0127-word-ladder) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
@@ -299,4 +301,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0820-find-eventual-safe-states) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
