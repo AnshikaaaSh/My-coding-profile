@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
