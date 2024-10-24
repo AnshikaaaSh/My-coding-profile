@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0146-lru-cache) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
 ## Topological Sort
 |  |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
 ## Binary Indexed Tree
 |  |
