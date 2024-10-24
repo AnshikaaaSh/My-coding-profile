@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,11 +250,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
 ## Iterator
 |  |
 | ------- |
@@ -307,4 +310,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
+## Ordered Set
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
