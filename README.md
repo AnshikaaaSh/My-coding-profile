@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
