@@ -1,51 +1,41 @@
-
-public class Solution {
+class Solution {
     public List<String> maxNumOfSubstrings(String s) {
-        int[] first = new int[26];
-        Arrays.fill(first, s.length());
-        int[] last = new int[26];
-        Arrays.fill(last, -1);
-        for (int i = 0; i < s.length(); i++) {
-            int c = s.charAt(i) - 'a';
-            first[c] = Math.min(first[c], i);
-            last[c] = Math.max(last[c], i);
+        int n=s.length();
+        int[] start=new int[26];
+        int[] end=new int[26];
+        Arrays.fill(start,-1);
+        Arrays.fill(end,-1);
+        
+        for(int i=0;i<n;i++){
+            int idx=s.charAt(i)-'a';
+            if(start[idx]==-1) start[idx]=i;
+            end[idx]=i;
         }
-        int[] l = new int[s.length()];
-        Arrays.fill(l, -1);
 
-        for (int i = 0; i < s.length(); i++) {
-            if (last[s.charAt(i) - 'a'] == -1) continue;
-            if (first[s.charAt(i) - 'a'] != i) continue;
-
-            int c = i;
-            int max = last[s.charAt(c) - 'a'];
-            while (true) {
-                if (c == max) {
-                    l[i] = max;
-                    break;
+        List<int[]> intervals=new ArrayList<>();
+        for(int i=0;i<26;i++){
+            if(start[i]!=-1){
+                int l=start[i];
+                int r=end[i];
+                for(int j=l;j<=r;j++){
+                    l=Math.min(l,start[s.charAt(j)-'a']);
+                    r=Math.max(r,end[s.charAt(j)-'a']);
                 }
-                c++;
-                if (first[s.charAt(c) - 'a'] < i) break;
-                max = Math.max(max, last[s.charAt(c) - 'a']);
-            }
-        }
-
-        // find the minimum last index every time from the list.
-        List<String> ans = new ArrayList<>();
-        int start = 0;
-        while (true) {
-            int min = Integer.MAX_VALUE;
-            int minIndex = -1;
-            for (int i = start; i <= Math.min(min, s.length() - 1); i++) {
-                if (l[i] != -1  && l[i] <= min) {
-                    min = l[i];
-                    minIndex = i;
+                if(l==start[i]){
+                    intervals.add(new int[]{l,r});
                 }
             }
-            if (minIndex == -1) break;
-            ans.add(s.substring(minIndex, l[minIndex] + 1));
-            start = min + 1;
         }
-        return ans;
+        Collections.sort(intervals,(a,b)->a[1]-b[1]);
+
+        List<String> res=new ArrayList<>();
+        int prevend=-1;
+        for(int[] in:intervals){
+            if(in[0]>prevend){
+                res.add(s.substring(in[0],in[1]+1));
+                prevend=in[1];
+            }
+        }
+        return res;
     }
 }
