@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Stack
 |  |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Bit Manipulation
 |  |
