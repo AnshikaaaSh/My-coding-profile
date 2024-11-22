@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Stack
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
@@ -198,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0820-find-eventual-safe-states) |
@@ -248,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0820-find-eventual-safe-states) |
@@ -301,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1073-number-of-enclaves) |
