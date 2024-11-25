@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0043-multiply-strings) |
 | [0126-word-ladder-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0126-word-ladder-ii) |
@@ -370,4 +372,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0043-multiply-strings) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
