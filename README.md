@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
 ## Topological Sort
