@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0297-serialize-and-deserialize-binary-tree) |
