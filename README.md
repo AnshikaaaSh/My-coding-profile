@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0073-set-matrix-zeroes) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0047-permutations-ii) |
 | [0126-word-ladder-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0126-word-ladder-ii) |
 ## Tree
 |  |
