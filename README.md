@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
