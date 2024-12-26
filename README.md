@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Greedy
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
