@@ -403,4 +403,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1300-critical-connections-in-a-network) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
