@@ -13,6 +13,7 @@ class Solution {
                 ni+=2;
             }
         }
+        System.gc();
         return ans;
     }
 }
