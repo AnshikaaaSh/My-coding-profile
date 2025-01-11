@@ -1,8 +1,9 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int[] ans=new int[nums.length];
+        int n=nums.length;
+        int[] ans=new int[n];
         int pi=0, ni=1;
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<n;i++){
             if(nums[i]>0){
                 ans[pi]=nums[i];
                 pi+=2;
