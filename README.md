@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0854-making-a-large-island) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -429,4 +431,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0182-duplicate-emails) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
