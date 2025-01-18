@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         List<Integer> res=new ArrayList<>();
-        int c1=0, c2=0;
+        int c1=0, c2=0, n=nums.length/3;
         int cand1=Integer.MIN_VALUE;
         int cand2=Integer.MIN_VALUE;
 
@@ -27,8 +27,8 @@ class Solution {
             if(num==cand1) c1++;
             else if(num==cand2) c2++;
         }
-        if(c1>nums.length/3) res.add(cand1);
-        if(c2>nums.length/3) res.add(cand2);
+        if(c1>n) res.add(cand1);
+        if(c2>n) res.add(cand2);
         return res;
     }
 }
