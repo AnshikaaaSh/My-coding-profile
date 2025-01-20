@@ -12,7 +12,7 @@ class Solution {
                 if(nums[i]==target) return i;
             }
         }
-        else if(nums[0]==target) return 0;
+        //else if(nums[0]==target) return 0;
         return -1;
     }
 }
