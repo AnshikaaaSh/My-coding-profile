@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0215-kth-largest-element-in-an-array) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0542-01-matrix](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0678-valid-parenthesis-string) |
