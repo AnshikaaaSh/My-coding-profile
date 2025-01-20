@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1036-rotting-oranges) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0792-binary-search) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/1772-create-sorted-array-through-instructions) |
 ## Divide and Conquer
