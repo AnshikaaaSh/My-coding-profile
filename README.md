@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0070-climbing-stairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -452,4 +454,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0229-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnshikaaaSh/My-coding-profile/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
